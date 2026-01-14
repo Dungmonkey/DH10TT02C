@@ -1,0 +1,1 @@
+print("hello world, i hope u burn in the fire")
